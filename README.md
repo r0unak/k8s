@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 Kubeadm Cluster Prerequisites
 We will use a kubeadm-based cluster setup
@@ -18,7 +17,7 @@ Firewall Requirements
 The following image shows the port requirements for the clusters.
 
 ![alt text](image.png)
->>>>>>> 18fd35e (First commit)
+
 
 Provision underlying infrastructure to deploy a Kubernetes cluster
 In this section, we will set up the essential utilities and services required to run a Kubernetes cluster.
